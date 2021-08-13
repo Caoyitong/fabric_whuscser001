@@ -19,8 +19,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/hyperledger/fabric/bccsp"
-	"github.com/hyperledger/fabric/bccsp/sw"
+	"github.com/Caoyitong/fabric_whuscser001/bccsp"
+	"github.com/Caoyitong/fabric_whuscser001/bccsp/sw"
 )
 
 const (

@@ -2,6 +2,9 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
+//go:build !amd64 || purego || !gc
+// +build !amd64 purego !gc
+
 package sha3
 
 // rc stores the round constants for use in the ι step.

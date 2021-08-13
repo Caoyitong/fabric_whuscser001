@@ -536,6 +536,24 @@
 			"revisionTime": "2016-10-11T05:00:08Z"
 		},
 		{
+			"checksumSHA1": "1M3opVy70ykV+bRf9iQD+XxnXZ8=",
+			"path": "github.com/tjfoc/gmsm/sm2",
+			"revision": "6e098d1dfd37331514c301f41db45ef8cbb845db",
+			"revisionTime": "2021-08-02T01:15:44Z"
+		},
+		{
+			"checksumSHA1": "s4MQ/L318IvM235P1Pxlpqa0eMk=",
+			"path": "github.com/tjfoc/gmsm/sm3",
+			"revision": "6e098d1dfd37331514c301f41db45ef8cbb845db",
+			"revisionTime": "2021-08-02T01:15:44Z"
+		},
+		{
+			"checksumSHA1": "OwJvBlPM1kURDPSCeKfv8psGp+g=",
+			"path": "golang.org/x/crypto",
+			"revision": "a769d52b0f97a420f3dcafc17f8b3384217859a2",
+			"revisionTime": "2021-07-10T19:57:36Z"
+		},
+		{
 			"path": "golang.org/x/crypto/hkdf",
 			"revision": "c8b9e6388ef638d5a8a9d865c634befdc46a6784",
 			"revisionTime": "2015-06-18T17:47:17-07:00"
@@ -705,5 +723,5 @@
 			"revisionTime": "2017-02-08T14:18:51Z"
 		}
 	],
-	"rootPath": "github.com/hyperledger/fabric"
+	"rootPath": "github.com/Caoyitong/fabric_whuscser001"
 }
