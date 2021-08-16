@@ -26,10 +26,10 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/hyperledger/fabric/bccsp"
-	"github.com/hyperledger/fabric/bccsp/sw"
-	"github.com/hyperledger/fabric/bccsp/utils"
-	"github.com/hyperledger/fabric/common/flogging"
+	"github.com/Caoyitong/fabric_whuscser001/bccsp"
+	"github.com/Caoyitong/fabric_whuscser001/bccsp/sw"
+	"github.com/Caoyitong/fabric_whuscser001/bccsp/utils"
+	"github.com/Caoyitong/fabric_whuscser001/common/flogging"
 	"github.com/miekg/pkcs11"
 )
 

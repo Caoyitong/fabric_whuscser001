@@ -22,8 +22,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/hyperledger/fabric/bccsp/mocks"
-	"github.com/hyperledger/fabric/bccsp/utils"
+	"github.com/Caoyitong/fabric_whuscser001/bccsp/mocks"
+	"github.com/Caoyitong/fabric_whuscser001/bccsp/utils"
 	"github.com/stretchr/testify/assert"
 )
 
